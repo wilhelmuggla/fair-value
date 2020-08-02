@@ -8,16 +8,18 @@ Fare Value Calculator is using [python3]https://www.python.org/download/releases
 Use [pip](https://pip.pypa.io/en/stable/), to install the requrired liberies
 
 
-1. install [colorama](https://pip.pypa.io/en/stable/)
+
+1. install [requests](https://requests.readthedocs.io/en/master/)
+```bash
+pip install requests
+```
+
+2. install [colorama](https://pypi.org/project/colorama/)
 ```bash
 pip install colorama
 ```
 
 
-2. install [requests](https://pip.pypa.io/en/stable/)
-```bash
-pip install requests
-```
 
 ## Config
 
