@@ -1,17 +1,22 @@
 [
     {
         "crypto": "BTC",
-        "amount": 266,
+        "amount": 0,
         "url": "https://coinshares.com/etps/xbt-provider/bitcoin-tracker-one"
     },
     {
         "crypto": "ETH",
-        "amount": 1009,
+        "amount": 0,
         "url": "https://coinshares.com/etps/xbt-provider/ether-tracker-one"
     },
     {
         "crypto": "XRP",
-        "amount": 90,
+        "amount": 0,
         "url": "https://coinshares.com/etps/xbt-provider/xrp-tracker-one"
+    },
+    {
+        "crypto": "LTC",
+        "amount": 0,
+        "url": "https://coinshares.com/etps/xbt-provider/litecoin-tracker-one"
     }
 ]
