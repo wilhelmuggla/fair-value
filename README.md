@@ -1,10 +1,22 @@
-gather the fare value from the 
+# XBT Provider - Fare Value Calculator
+Fare Value Calculator keeps track of the value of your crypto certificate holdings.
 
+
+## Installation
+Fare Value Calculator is using [python3]https://www.python.org/download/releases/3.0/  
+
+
+Use pip[pip](https://pip.pypa.io/en/stable/), to install the requrired liberies
+```bash
+pip install colorama
+```
+```bash
+pip install requests
+```
 
 ## Config
 
-
-1. Configure your portfolio in `portfolio.json`:
+Configure your portfolio in `portfolio.json`:
 
    ```json
  
