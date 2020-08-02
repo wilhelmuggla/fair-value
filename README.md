@@ -4,7 +4,7 @@ Fare Value Calculator keeps track of the value of your crypto certificate holdin
 ![example image](https://github.com/wilhelmuggla/fair-value/blob/master/example-image.png)
 
 ## Installation
-Fare Value Calculator is using [python3](https://www.python.org/download/releases/3.0/), use [pip](https://pip.pypa.io/en/stable/), to install the requrired liberies
+Fare Value Calculator is using [python3](https://www.python.org/download/releases/3.0/), use [pip](https://pip.pypa.io/en/stable/) to install the requrired liberies
 
 
 
