@@ -1,10 +1,10 @@
-# XBT Provider - Fare Value Calculator
-Fare Value Calculator keeps track of the value of your crypto certificate holdings.
+# XBT Provider - Fair Value Calculator
+Fair Value Calculator keeps track of the value of your crypto certificate holdings.
 
 ![example image](https://github.com/wilhelmuggla/fair-value/blob/master/example-image.png)
 
 ## Installation
-Fare Value Calculator is using [python3](https://www.python.org/download/releases/3.0/), use [pip](https://pip.pypa.io/en/stable/) to install the requrired liberies
+Fair Value Calculator is using [python3](https://www.python.org/download/releases/3.0/), use [pip](https://pip.pypa.io/en/stable/) to install the requrired liberies
 
 
 
